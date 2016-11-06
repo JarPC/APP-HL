@@ -12,7 +12,7 @@ public class Utilidad extends Application {
     }
 
 
-    //hola
+    //hola Jared
     @Override
     public void onCreate() {
         super.onCreate();
